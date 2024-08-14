@@ -113,6 +113,7 @@ custom_proxy_group=🇵🇭 菲律宾节点`select`(菲|PH)
 custom_proxy_group=🇹🇭 泰国节点`select`(泰|TH)
 custom_proxy_group=🇵🇰 巴基斯坦节点`select`(巴基斯坦|PK)
 custom_proxy_group=🇷🇺 俄罗斯`select`(俄|俄罗斯|RUS|RF)
+custom_proxy_group=TH 泰国`select`(泰国|Thailand)
 ;设置分组标志位
 
 enable_rule_generator=true

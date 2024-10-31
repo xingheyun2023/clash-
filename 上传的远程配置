@@ -11,8 +11,7 @@
 
 ;设置规则标志位
 ;有个小技巧，下列不同列表可能会有重复规则，可以将想要命中的规则尽量提前
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/xingheyun2023/ios_rule_script/refs/heads/master/rule/Clash/Direct/Direct.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=📢 谷歌服务,https://raw.githubusercontent.com/xingheyun2023/ios_rule_script/master/rule/Clash/Google/Google.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list

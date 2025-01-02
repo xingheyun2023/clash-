@@ -38,7 +38,6 @@ ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=📺 哔哩哔哩,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 ruleset=📺 哔哩哔哩,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
 ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
-ruleset=🌍 国外媒体,https://raw.githubusercontent.com/mphin/proxy_tools/main/rules/ProxyMedia.list
 ruleset=💬 微信,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/wechat.list
 ruleset=🍠 小红书,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/XiaoHongShu.list
 ruleset=🕺 字节跳动,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ByteDance.list
